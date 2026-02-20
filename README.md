@@ -95,6 +95,4 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 Santosh Sharma
-Your Name
-GitHub: https://github.com/your-username
-Sa
+GitHub: https://github.com/santosh312-dev
