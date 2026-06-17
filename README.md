@@ -77,7 +77,7 @@ You can deploy this project on:
 
 ## 📸 Screenshots
 
-See Live Website : Link: ttps://santosh312-dev.github.io/santosh-portfolio
+See Live Website : Link: https://santosh312-dev.github.io/santosh-portfolio
 
 ---
 
